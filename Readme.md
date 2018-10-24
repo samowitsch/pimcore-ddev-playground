@@ -48,6 +48,7 @@ Lets start working on your project with pimcore ;-)
 * Frontend: http://pimcore-playground.ddev.local:8000
 * Backend: http://pimcore-playground.ddev.local:8000/admin/login
 * phpMyAdmin: http://pimcore-playground.ddev.local:8036
+* Mailhog: http://pimcore-playground.ddev.local:8025
 
 
 ## additional needed config files
