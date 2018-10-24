@@ -89,3 +89,6 @@ pimcore_install:
             port:                 3306
 ```
 
+## Known issues
+
+* ddev using nginx-fpm is not working properly using apache-fpm instead
