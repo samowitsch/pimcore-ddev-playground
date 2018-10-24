@@ -1,0 +1,10 @@
+# app/config/installer.yml
+
+pimcore_install:
+    parameters:
+        database_credentials:
+            user:                 db
+            password:             db
+            dbname:               db            
+            host:                 db
+            port:                 3306
