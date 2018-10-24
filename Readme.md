@@ -43,7 +43,7 @@ cd ..
 # your done!
 ```
 
-Lets start working on your project wiht pimcore ;-)
+Lets start working on your project with pimcore ;-)
 
 * Frontend: http://pimcore-playground.ddev.local:8000
 * Backend: http://pimcore-playground.ddev.local:8000/admin/login
